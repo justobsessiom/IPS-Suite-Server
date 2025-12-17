@@ -33,4 +33,5 @@ If you prefer to run the raw Python script:
 2. Make sure you have **Python** installed.
 3. Open a terminal in the folder and run:
    ```bash
-   python server.py
+
+   python IPS_Code.py
