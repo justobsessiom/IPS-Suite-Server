@@ -8,7 +8,7 @@
 **IPS Suite** connects your computer files to Roblox Studio. Since Roblox cannot directly access your hard drive for security reasons, this lightweight server acts as a **safe bridge**.
 
 It allows you to:
-- Select images/videos from your PC.
+- Select images from your PC.
 - Convert pixels into data.
 - Send that data to the Roblox Plugin to build efficiently.
 
@@ -35,3 +35,4 @@ If you prefer to run the raw Python script:
    ```bash
 
    python IPS_Code.py
+
