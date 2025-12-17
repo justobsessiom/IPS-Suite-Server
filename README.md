@@ -2,9 +2,7 @@
 
 ### The official local companion app for the [IPS Suite Roblox Plugin](https://create.roblox.com/store/asset/128709667146548/IPS).
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue) 
-![Platform](https://img.shields.io/badge/Platform-Windows%20Only-blue) 
-![License](https://img.shields.io/badge/License-Open%20Source-green)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![License](https://img.shields.io/badge/License-Open%20Source-green)
 
 ## 👋 What is this?
 **IPS Suite** connects your computer files to Roblox Studio. Since Roblox cannot directly access your hard drive for security reasons, this lightweight server acts as a **safe bridge**.
@@ -37,5 +35,6 @@ If you prefer to run the raw Python script:
    ```bash
 
    python IPS_Code.py
+
 
 
